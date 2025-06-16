@@ -107,7 +107,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik-ghosh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik-ghosh&theme=tokyonight&hide_border=false&langs_count=2&layout=compact&custom_title=Top%20Languages%20(Java%20%26%20Python)&card_width=300&hide=html,css,javascript,c++,typescript,shell" alt="Top Languages" />
 </div>
 
 <div align="center">
