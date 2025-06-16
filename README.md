@@ -107,7 +107,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik-ghosh&theme=tokyonight&hide_border=false&langs_count=2&layout=compact&custom_title=Top%20Languages%20(Java%20%26%20Python)&card_width=300&hide=html,css,javascript,c++,typescript,shell" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 </div>
 
 <div align="center">
