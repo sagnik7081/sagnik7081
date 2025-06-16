@@ -1,273 +1,97 @@
+<!-- GitHub Profile README -->
 
+<h1 align="center">Hi there 👋, I'm Sagnik Das</h1>
+<h3 align="center">AI/ML Engineer | Cloud-Native Developer | Pythonista</h3>
 
-# 👋 Hi, I'm Sagnik Ghosh
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;4th+Year+Student+%F0%9F%8E%93;Building+Intelligent+Systems+%F0%9F%9A%80;Cloud+%26+Deep+Learning+Expert+%E2%98%81%EF%B8%8F;Turning+Data+into+Intelligence+%F0%9F%A7%A0" alt="Typing SVG" />
-</div>
-
-<img align="right" alt="AI Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-## 🚀 About Me
-
-> *"The best way to predict the future is to invent it."* - Alan Kay
-
-**My name is Sagnik Ghosh**, currently in my 4th year pursuing my passion for Artificial Intelligence and Machine Learning. I'm dedicated to building intelligent systems that solve real-world problems, with expertise spanning from cloud infrastructure to deep learning models.
-
-- 🔭 I'm currently working on **AI/ML projects**
-- 🌱 I'm currently learning **Advanced Deep Learning & LLMs**
-- 👯 I'm looking to collaborate on **Open Source AI Projects**
-- 💬 Ask me about **Python, TensorFlow, PyTorch, AWS**
-- ⚡ Fun fact: **I love automating everything!**
-
-<br clear="right"/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-</div>
-
----
-
-## ⚡ Tech Stack & Skills
-
-> *"Any sufficiently advanced technology is indistinguishable from magic."* - Arthur C. Clarke
-
-<div align="left">
-
-### 🧠 AI/ML & Data Science
-<p align="left">
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=AI+%2F+ML+Engineer;Cloud+Dev+%7C+Python+%7C+Linux+Enthusiast;Full+Stack+%7C+LangChain+%7C+LLMOps" alt="Typing SVG" />
 </p>
 
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200">
-</div>
-
-### 💻 Programming Languages
-<p align="right">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sagnik7081&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik7081" />
 </p>
 
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d2.gif" width="100">
-</div>
+---
 
-### ☁️ Cloud & DevOps
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+### 🧠 About Me
+
+- 🔭 I’m currently working on **AI-powered financial systems & intelligent surveillance**
+- 🌱 Actively exploring **LangChain, Groq, Streamlit AI, and AWS ML services**
+- 💬 Ask me about **ML, NLP, LangChain, Flask, Docker, Python, Linux, and Cloud**
+- 📫 Reach me at: `sagnik7081@gmail.com`
+- 🧠 *724 contributions in the last year*
+- 🎉 *Joined GitHub on Jul 17, 2022*
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,bootstrap,javascript,flask,django,docker,tensorflow,pytorch,opencv,aws,linux,mysql,postgres,mongodb,sqlite,git,github,postman" />
 </p>
 
-> *"The cloud is not just a technology, it's a new way of thinking."* - Satya Nadella
+---
 
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="300">
-</div>
+### 📊 GitHub Stats
 
-### 🗄️ Databases
-<p align="right">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagnik7081&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sagnik7081&theme=tokyonight" height="160"/>
 </p>
 
-### 🌐 Web & Testing
-<p align="left">
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+---
+
+### 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/sagnik7081/ExpenseLynx">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik7081&repo=ExpenseLynx&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/sagnik7081/ATM-Face-Recognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik7081&repo=ATM-Face-Recognition&theme=tokyonight" />
+  </a>
 </p>
 
-</div>
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnik7081&theme=tokyo-night&area=true&hide_border=true" />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+### 🧰 Tools I Use
 
-> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagnik-ghosh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik-ghosh&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik-ghosh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-Bash-lightgrey?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-GitHub-black?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 🎯 Current Focus
+### ✍️ Dev Quote
 
-> *"The future belongs to those who learn more skills and combine them in creative ways."* - Robert Greene
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔬 Research & Learning
-- 🧪 Exploring advanced ML architectures
-- 🤖 LLM applications & fine-tuning  
-- 👁️ Computer Vision innovations
-- ⚡ Neural Network optimization
-- 📊 MLOps & model deployment
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
-</div>
-
-</td>
-<td width="50%">
-
-### 🚀 Building Projects
-- 🏗️ Developing scalable AI solutions
-- ☁️ Cloud-native ML deployments
-- 🔄 MLOps & automation pipelines
-- 🌍 Real-world problem solving
-- 🤝 Open source contributions
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">
-</div>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🤝 Connect with Me
 
-> *"Success is not final, failure is not fatal: it is the courage to continue that counts."* - Winston Churchill
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagnik-ghosh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnik-ghosh&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="Activity Graph" />
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/sagnik7081" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sagnik7081@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌟 Featured Projects
-
-> *"The best time to plant a tree was 20 years ago. The second best time is now."* - Chinese Proverb
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sagnik-ghosh&repo=ai-project-1&theme=tokyonight)](https://github.com/sagnik-ghosh/ai-project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sagnik-ghosh&repo=ml-automation&theme=tokyonight)](https://github.com/sagnik-ghosh/ml-automation)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
-</div>
-
----
-
-## 💭 Philosophy & Inspiration
-
-<div align="center">
-
-> *"Artificial Intelligence is the new electricity."* - Andrew Ng
-
-> *"Machine learning is the last invention that humanity will ever need to make."* - Nick Bostrom
-
-> *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."* - Edsger W. Dijkstra
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
-
----
-
-## 🎨 Fun Animations & Visuals
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-</div>
-
----
-
-## 📫 Let's Connect!
-
-> *"Alone we can do so little; together we can do so much."* - Helen Keller
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagnik-ghosh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagnik.ghosh@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sagnik-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sagnik_ghosh)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d2.gif" width="100">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagnik-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  
-> *"The journey of a thousand miles begins with one step."* - Lao Tzu
-
-**⭐ From [sagnik-ghosh](https://github.com/sagnik-ghosh) with ❤️ 🚀**
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<!-- Animated footer -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%">
-</div>
+<p align="center">✨ Built with ❤️ by Sagnik | Last updated: 2025</p>
