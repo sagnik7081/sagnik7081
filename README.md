@@ -184,8 +184,9 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sagnik-ghosh&repo=ai-project-1&theme=tokyonight)](https://github.com/sagnik7081/LangChain_Powered_AI_Chatbot_Web_Search)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sagnik-ghosh&repo=ml-automation&theme=tokyonight)](https://github.com/sagnik7081/LangChain_Powered_AI_Chatbot_Web_Search)
+[![LangChain AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=sagnik7081&repo=LangChain_Powered_AI_Chatbot_Web_Search&theme=tokyonight)](https://github.com/sagnik7081/LangChain_Powered_AI_Chatbot_Web_Search)
+[![Centralized Medical Record](https://github-readme-stats.vercel.app/api/pin/?username=sagnik7081&repo=Centralized_Medical_Record&theme=tokyonight)](https://github.com/sagnik7081/Centralized_Medical_Record)
+
 
 </div>
 
