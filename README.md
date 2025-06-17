@@ -170,14 +170,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnik-ghosh&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 > *"The best time to plant a tree was 20 years ago. The second best time is now."* - Chinese Proverb
