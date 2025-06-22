@@ -188,23 +188,6 @@
 
 ---
 
-## 💭 Philosophy & Inspiration
-
-<div align="center">
-
-> *"Artificial Intelligence is the new electricity."* - Andrew Ng
-
-> *"Machine learning is the last invention that humanity will ever need to make."* - Nick Bostrom
-
-> *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."* - Edsger W. Dijkstra
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
-
----
 
 ## 📫 Let's Connect!
 
@@ -213,21 +196,12 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagnik-ghosh-a8a57b2a9/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagnik2231@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagnik7081@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sagnik-portfolio.com)
 
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d2.gif" width="100">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagnik-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
 ---
 
